@@ -1,0 +1,9 @@
+#Directorios completos a ignorar
+data/
+tests_publicos/
+#Archivos específicos ignorados 
+/Enunciado.pdf
+/todos_tests.py
+/test_solution.py
+/utilidades.py
+/test_elementos_prohibidos.pyc

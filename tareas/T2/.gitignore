@@ -1,0 +1,6 @@
+#Directorio completo a ignorar
+data/
+#Archivos específicos ignorados 
+/Enunciado.pdf
+/log.mdlog.md 
+log.md 

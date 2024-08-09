@@ -1,0 +1,9 @@
+#Directorios completos ignorados
+tests_publicos/
+data/
+#Archivos específicos ignorados
+/Enunciado.pdf
+/dcciudad.pyc
+/todos_tests.py
+__pycache__
+/ejemplo.py
